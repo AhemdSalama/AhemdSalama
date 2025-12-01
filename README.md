@@ -1,26 +1,37 @@
 ## 🌟 Hello World! I'm Ahmed Salama
 
-### Software Engineering Graduate & Full Stack Developer (ASP.NET & React.js)
+### Software Engineering Graduate | Aspiring Full Stack Developer
 
-I am a motivated Software Engineering graduate with a strong focus on building **scalable, robust, and user-focused web applications**. I am passionate about continuous learning and committed to evolving as a full-stack developer.
+I am a motivated **Software Engineering graduate** with a **growing focus** on Full Stack Web Development. I am committed to continuous learning and building **strong, scalable, and user-focused applications**.
 
 ---
 
-### 💻 My Tech Stack & Focus
+### 💻 Development Focus & Skills
 
-My primary areas of interest and expertise are:
+My current efforts are concentrated on advancing my skills in the following areas:
 
-| Category | Key Technologies | Description |
+| Category | Key Focus | Experience Base |
 | :--- | :--- | :--- |
-| **Backend** | ASP.NET (C#) | Building strong, reliable server-side logic and APIs. |
-| **Frontend** | React.js | Developing dynamic, modern, and highly interactive user interfaces. |
-| **Foundational** | C#, WPF, Web Development | Well-rounded experience in the .NET ecosystem and core development principles. |
+| **Full Stack** | ASP.NET (C#) & React.js | Currently advancing skills in both frameworks. |
+| **Development** | Web Development, WPF | Hands-on experience contributing to a well-rounded technical foundation. |
+| **Professional** | IT Helpdesk, Technical Support | Strengthened analytical, problem-solving, and communication skills. |
 
 ---
 
-### 🚀 Looking Ahead
+### 💪 Personal Qualities
 
-My goal is to join a forward-thinking team where I can apply my skills to **develop impactful solutions** and continue my growth in a full-time development role.
+Qualities I am eager to bring to a development role:
+
+* **Analytical Mindset:** Strong problem-solving abilities honed in technical support.
+* **Creative Thinking:** Eager to contribute fresh ideas.
+* **Collaboration:** Excitement to collaborate with a forward-thinking team.
+* **Drive to Grow:** Passionate about continuous professional evolution.
+
+---
+
+### 🚀 Goal
+
+My goal is to join an organization where I can **develop impactful solutions** and continue evolving as a full-stack developer.
 
 ---
 
