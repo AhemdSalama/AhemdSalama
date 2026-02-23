@@ -12,7 +12,7 @@ My current efforts are concentrated on advancing my skills in the following area
 
 | Category | Key Focus | Experience Base |
 | :--- | :--- | :--- |
-| **Full Stack** | ASP.NET (C#) & React.js | Currently advancing skills in both frameworks. |
+| **Full Stack** | Node.js, Angular, Express.js, MongoDB | Currently advancing skills in both frameworks. |
 | **Development** | Web Development, WPF | Hands-on experience contributing to a well-rounded technical foundation. |
 | **Professional** | IT Helpdesk, Technical Support | Strengthened analytical, problem-solving, and communication skills. |
 
