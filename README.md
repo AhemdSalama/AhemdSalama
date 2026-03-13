@@ -1,35 +1,54 @@
-🌟 Hello World! I'm Ahmed Salama
+# 🌟 Ahmed Salama
 
-Software Engineering Graduate | Aspiring Full Stack Developer
+**Software Engineering Graduate | Aspiring Full Stack Developer**
 
-I am a motivated Software Engineering graduate with a growing focus on Full Stack Web Development. I am committed to continuous learning and building strong, scalable, and user-focused applications.
+---
 
-💻 Development Focus & Skills
+## 👋 About Me
 
-My current efforts are concentrated on advancing my skills in the following areas:
+I'm a motivated Software Engineering graduate with a growing focus on Full Stack Web Development. I'm committed to continuous learning and building strong, scalable, and user-focused applications.
 
-CategoryKey FocusExperience BaseFull StackNode.js, Angular, Express.js, MongoDBCurrently advancing skills in both frameworks.DevelopmentWeb Development, WPFHands-on experience contributing to a well-rounded technical foundation.ProfessionalIT Helpdesk, Technical SupportStrengthened analytical, problem-solving, and communication skills.
+---
 
-💪 Personal Qualities
+## 💻 Development Focus & Skills
 
-Qualities I am eager to bring to a development role:
+| Category | Key Focus | Experience Base |
+|----------|-----------|-----------------|
+| **Full Stack Development** | Node.js, Angular, Express.js, MongoDB | Currently advancing skills in both frameworks |
+| **Web Development** | WPF, Modern Web Frameworks | Hands-on experience building robust applications |
+| **Professional** | IT Helpdesk, Technical Support | Strengthened analytical, problem-solving, and communication skills |
 
-Analytical Mindset: Strong problem-solving abilities honed in technical support.
+### Core Competencies
+- **Backend**: Node.js, Express.js, REST APIs
+- **Frontend**: Angular, Modern JavaScript
+- **Databases**: MongoDB
+- **Other**: Problem-solving, Code optimization
 
-Creative Thinking: Eager to contribute fresh ideas.
+---
 
-Collaboration: Excitement to collaborate with a forward-thinking team.
+## 💪 Personal Qualities
 
-Drive to Grow: Passionate about continuous professional evolution.
+I bring the following strengths to any development team:
 
-🚀 Goal
+- 🧠 **Analytical Mindset** - Strong problem-solving abilities honed through technical experience
+- 💡 **Creative Thinking** - Eager to contribute fresh ideas and innovative solutions
+- 🤝 **Collaboration** - Excited to work with forward-thinking teams
+- 🚀 **Drive to Grow** - Passionate about continuous professional evolution
 
+---
 
+## 🎯 My Goal
 
-My goal is to join an organization where I can develop impactful solutions and continue evolving as a full-stack developer.
+To join an organization where I can develop impactful solutions while continuing to grow as a full-stack developer.
 
-📬 Let's Connect
+---
 
+## 📬 Let's Connect
 
+I'd love to connect! Reach out through my professional networks:
 
-📫 You can reach me through my LinkedIn account https://www.linkedin.com/in/ahmed-salama-82411715b/
+- 💼 **LinkedIn**: [ahmed-salama-82411715b](https://www.linkedin.com/in/ahmed-salama-82411715b/)
+- 📧 **Email**: [Add your email here]
+- 💻 **GitHub**: [github.com/AhemdSalama](https://github.com/AhemdSalama)
+
+---
