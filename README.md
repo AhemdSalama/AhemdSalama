@@ -1,60 +1,35 @@
-<div align="center">
+🌟 Hello World! I'm Ahmed Salama
 
-  # 🌌 Greetings, Travelers of the Digital Cosmos! I am Ahmed Salama 🌌
+Software Engineering Graduate | Aspiring Full Stack Developer
 
-  **Software Alchemist | Aspiring Full Stack Sorcerer | Code Weaver**
+I am a motivated Software Engineering graduate with a growing focus on Full Stack Web Development. I am committed to continuous learning and building strong, scalable, and user-focused applications.
 
-  *“Forging strong, scalable, and user-focused artifacts in the ever-expanding tech universe.”*
-</div>
+💻 Development Focus & Skills
 
----
+My current efforts are concentrated on advancing my skills in the following areas:
 
-### 📜 About the Protagonist
-I am a motivated **Software Engineering graduate** on an epic quest to master the arcane arts of Full Stack Web Development. Like a traveler charting new stars, I am committed to continuous learning, unraveling complex code, and building applications that leave a lasting impact on the digital realm.
+CategoryKey FocusExperience BaseFull StackNode.js, Angular, Express.js, MongoDBCurrently advancing skills in both frameworks.DevelopmentWeb Development, WPFHands-on experience contributing to a well-rounded technical foundation.ProfessionalIT Helpdesk, Technical SupportStrengthened analytical, problem-solving, and communication skills.
 
----
+💪 Personal Qualities
 
-### 🛠️ The Skill Tree (Development Arsenal)
-My current training arc is focused on mastering these powerful tools and frameworks:
+Qualities I am eager to bring to a development role:
 
-**The Full Stack Grimoire:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+Analytical Mindset: Strong problem-solving abilities honed in technical support.
 
-**Foundational Relics:**
-![Web Development](https://img.shields.io/badge/Web_Dev-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+Creative Thinking: Eager to contribute fresh ideas.
 
----
+Collaboration: Excitement to collaborate with a forward-thinking team.
 
-### 🛡️ Character Stats & Passive Abilities
-Qualities I bring to every adventuring party (development team):
+Drive to Grow: Passionate about continuous professional evolution.
 
-* 🧠 **Analytical Mindset (INT +10):** Strong problem-solving abilities forged in the fires of IT Technical Support.
-* ✨ **Creative Thinking (CHA +8):** Always eager to conjure fresh ideas and innovative solutions.
-* 🤝 **Party Synergy (Collaboration):** High excitement to raid challenges alongside a forward-thinking guild.
-* 🔥 **Drive to Grow (EXP Boost):** A burning passion for continuous professional evolution and skill-leveling.
+🚀 Goal
 
----
 
-### ⚔️ Quest Log (Experience Base)
 
-| Quest Category | Lore & Current Progress |
-| :--- | :--- |
-| **Full Stack Arts** | Currently leveling up my foundation in the JavaScript ecosystem (Node.js, Angular, Express.js, MongoDB). |
-| **Application Building** | Hands-on experience wielding Web Dev and WPF, contributing to a well-rounded technical foundation. |
-| **Support Vanguard** | Veteran of the IT Helpdesk. Defended the realm against bugs and system failures, strengthening my communication and analytical skills. |
+My goal is to join an organization where I can develop impactful solutions and continue evolving as a full-stack developer.
 
----
+📬 Let's Connect
 
-### 🎯 Current Objective (Main Quest)
-To join a legendary guild (organization) where I can **develop impactful solutions**, tackle high-level projects, and continue evolving into a Master Full Stack Developer.
 
----
 
-### 📬 Summoning Circle (Let's Connect)
-Seeking a companion for your next grand tech adventure? Cast a message my way!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-salama-82411715b/)
+📫 You can reach me through my LinkedIn account https://www.linkedin.com/in/ahmed-salama-82411715b/
