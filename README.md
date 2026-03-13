@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="YOUR_IMAGE_LINK_HERE.jpg" alt="Ahmed Salama" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #ff00ff;"/>
 
   # 🌌 Greetings, Travelers of the Digital Cosmos! I am Ahmed Salama 🌌
 
