@@ -1,54 +1,38 @@
-# 🌟 Ahmed Salama
+# Hi there, I'm Ahmed Salama 👋
+### Software Engineering Graduate | Aspiring Full Stack Developer
 
-**Software Engineering Graduate | Aspiring Full Stack Developer**
-
----
-
-## 👋 About Me
-
-I'm a motivated Software Engineering graduate with a growing focus on Full Stack Web Development. I'm committed to continuous learning and building strong, scalable, and user-focused applications.
+I am a motivated Software Engineering graduate with a strong analytical foundation built from experience in IT Helpdesk and Technical Support. Today, my focus is on Full Stack Web Development. I am passionate about building strong, scalable, and user-focused applications, and I'm eager to join a forward-thinking team where I can contribute fresh ideas and grow!
 
 ---
 
-## 💻 Development Focus & Skills
+### 💻 Tech Stack & Skills
 
-| Category | Key Focus | Experience Base |
-|----------|-----------|-----------------|
-| **Full Stack Development** | Node.js, Angular, Express.js, MongoDB | Currently advancing skills in both frameworks |
-| **Web Development** | WPF, Modern Web Frameworks | Hands-on experience building robust applications |
-| **Professional** | IT Helpdesk, Technical Support | Strengthened analytical, problem-solving, and communication skills |
+**Frontend** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Core Competencies
-- **Backend**: Node.js, Express.js, REST APIs
-- **Frontend**: Angular, Modern JavaScript
-- **Databases**: MongoDB
-- **Other**: Problem-solving, Code optimization
+**Backend & Databases** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other Tech & Concepts** ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 
 ---
 
-## 💪 Personal Qualities
+### 💪 What I Bring to the Table
 
-I bring the following strengths to any development team:
-
-- 🧠 **Analytical Mindset** - Strong problem-solving abilities honed through technical experience
-- 💡 **Creative Thinking** - Eager to contribute fresh ideas and innovative solutions
-- 🤝 **Collaboration** - Excited to work with forward-thinking teams
-- 🚀 **Drive to Grow** - Passionate about continuous professional evolution
+* 🧠 **Analytical Mindset:** Strong problem-solving abilities honed through real-world technical support.
+* 💡 **Creative Thinking:** Always looking for innovative solutions and code optimization.
+* 🤝 **Team Player:** Highly collaborative and excited to work with forward-thinking developers.
+* 🚀 **Driven to Grow:** Committed to continuous professional evolution.
 
 ---
 
-## 🎯 My Goal
+### 📬 Let's Connect!
 
-To join an organization where I can develop impactful solutions while continuing to grow as a full-stack developer.
-
----
-
-## 📬 Let's Connect
-
-I'd love to connect! Reach out through my professional networks:
-
-- 💼 **LinkedIn**: [ahmed-salama-82411715b](https://www.linkedin.com/in/ahmed-salama-82411715b/)
-- 📧 **Email**: [Add your email here]
-- 💻 **GitHub**: [github.com/AhemdSalama](https://github.com/AhemdSalama)
-
----
+<a href="https://www.linkedin.com/in/ahmed-salama-82411715b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
